@@ -58,5 +58,5 @@
 ---
 
 <p align="center">
-  💻 Powered by paixão por dados, sensores e propósito.
+  💻 Powered by paixão por dados, propósito e vontade de aprender.
 </p>
